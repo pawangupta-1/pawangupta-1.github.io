@@ -269,8 +269,8 @@ footer.site a { color: var(--ink-soft); }
 }
 
 .avatar-placeholder {
-  width: 240px;
-  height: 260px;
+  width: 340px;
+  height: 360px;
   border-radius: 4px;
   background: var(--paper-alt);
   border: 1px solid var(--line-strong);
