@@ -279,7 +279,7 @@ footer.site a { color: var(--ink-soft); }
   justify-content: center;
   flex-shrink: 0;
 }
-.avatar-placeholder svg { width: 60%; height: 60%; opacity: .55; }
+.avatar-placeholder svg { width: 100%; height: 100%; opacity: .55; }
 
 .hero {
   display: grid;
